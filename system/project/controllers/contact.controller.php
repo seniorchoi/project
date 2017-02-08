@@ -5,6 +5,9 @@
     <title>Contact page</title>
 </head>
 <body>
+    <nav>
+        <a href="?page=home">Home</a>
+    </nav>
     contact page
 </body>
 </html>
